@@ -28,5 +28,5 @@ Next step, We will release more code for using the data set.
 
 
 ## Reference
-1 https://www.sdms.afrl.af.mil/index.php?collection=mstar
-2 H. Liu, B. Jiu, F. Li and Y. Wang, "Attributed Scattering Center Extraction Algorithm Based on Sparse Representation With Dictionary Refinement, " in IEEE Transactions on Antennas and Propagation, vol. 65, no. 5, pp. 2604-2614, May 2017
+- 1 https://www.sdms.afrl.af.mil/index.php?collection=mstar
+- 2 H. Liu, B. Jiu, F. Li and Y. Wang, "Attributed Scattering Center Extraction Algorithm Based on Sparse Representation With Dictionary Refinement, " in IEEE Transactions on Antennas and Propagation, vol. 65, no. 5, pp. 2604-2614, May 2017
